@@ -7,9 +7,9 @@ dependencies:
   - jupyter-server-proxy=1.2
   - nbgitpuller=0.8
   - isce2=2.3
-  - geopandas=0.7
+  - geopandas=0.6
   - geoviews=1.6
-  - datashader=1.6
+  - datashader=0.10
   - hvplot=0.5
   - xarray=0.15
   - rasterio=1.1
